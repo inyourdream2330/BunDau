@@ -1,0 +1,241 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 13, 2020, 3:55:39 PM
+    Author     : admin
+*/
+.bg-light{
+	background: rgb(0,0,0,0.3) !important;
+}
+.navbar-light .navbar-brand {
+    color: #fff;
+
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link{
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.nav-item .nav-link:hover{
+	color:#f68f00!important;
+}
+
+.logo img{
+	width: 110px;
+	height: 60px;
+}
+.text{
+	font-size: 20px;
+	margin-right: 50px; 
+
+}
+.nav-link{
+	padding: 0 30px !important;
+}
+.tieude{
+	border-bottom: 2px solid green;
+	margin-bottom: 30px;
+
+}
+div.tieude h2{
+	margin-bottom: -30px;
+	font-size: 40px;
+    background-color: white;
+    display: inline-block;
+    position: relative;
+    top: 15px;
+    padding-right: 13px;
+    padding-left: 13px;
+    font-family: 'Pattaya', sans-serif;
+    color: #f68f00;
+}
+div.tieude1{
+	color: #f68f00;
+	padding: 25px 30px !important;
+
+}
+.tieude1 img{
+	width: 55px;
+	height: 55px;
+
+}
+.solid {
+	border-bottom: 2px dotted green;
+	margin-bottom: 30px;
+	
+}
+h3.card-title{
+	text-align: center;
+
+	
+
+}
+h2.card-title{
+	text-align: center;
+}
+p.carousel-inner{
+	text-align: center;
+}
+
+.carousel--wrap{
+	margin-top: -80px;
+	position: absolute;
+	font-weight: 400;
+	top: 45%;
+	left: 50%;
+	transform: translateX(-50%);
+	font-size: 20px;
+	line-height: 30px;
+	color: #FFFFFF;
+}
+
+.btn:hover{
+	color: white;
+}
+.button{
+	background-color: #f68f00;
+	font-size: 15px;
+	font-weight: bold;
+	color: white; 
+	margin-left: 650px;
+}
+.button{
+	opacity: 0.8;
+}
+.button:hover{
+	opacity: 1;
+}
+
+.footer1{
+ background-color: #f68f00;
+ color: white;
+
+}
+.footer1 h2{
+	margin: 5px;
+	padding: 8px;
+	font-size: 25px;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+.footer1 a{
+	color: white;
+}
+.footer1 a:hover{
+	color: blue;
+}
+
+.footer1 p{
+	margin: 5px;
+	padding-top: 2px;
+	padding-left: 10px;
+	font-size: 18px;
+	font-family: "Times New Roman", Times, serif;
+	
+}
+.footer1 h2{
+	margin: 5px;
+	padding: 5px;
+	border-bottom: 1px solid white;
+	
+	
+}
+/*==========================footer2===========================*/
+.footer2{
+
+	background-color: #e6e6e6;
+	color: black;
+	
+}
+.footer2 p{
+	margin: 8px;
+	padding: 8px;
+	font-size: 16px;
+	font-family: "Times New Roman", Times, serif;
+
+}
+.myframegmap{
+
+    border: 3px solid #f6f5f0;
+    border-radius: 8px;
+    height: 130px;
+    width: 80%;
+    box-shadow: 0px 0px 3px 3px #e7e4dc;
+    overflow: hidden;
+    position: relative;
+    margin: 0 auto;
+
+}
+.icon-append{
+	position: absolute;
+	left: 340px;
+	top: 47px;
+
+}
+.fa-tags{
+	position: absolute;
+	left: 717px;
+	top: 71px;
+}
+.fa-comment{
+	position: absolute;
+	left: 717px;
+	top: 71px;
+}
+.label{
+	width: 100%;
+}
+#contact-name{
+	width: 100%;
+}
+#contact-email{
+	width: 100%;
+}
+#contact-subject{
+	width: 100%;
+}
+#contact-comment{
+	width: 100%;
+}
+.container-fluid{
+	margin-top: 30px;
+}
+.button1{
+	background-color: #f68f00;
+	font-size: 15px;
+	font-weight: bold;
+	color: white; 
+	margin-left: 747px;
+	margin-top: 30px;
+}
+.button1{
+	opacity: 0.8;
+}
+.button1:hover{
+	opacity: 1;
+}
+.section-titles{
+	margin-top: 60px;
+}
+div.tieude h2{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    position: relative;
+    padding-right: 13px;
+    padding-left: 13px;
+    font-family: 'Pattaya', sans-serif;
+    color: #f68f00;
+}
+
+span{
+    font-size: 25px;
+}  
+img{
+    width:100%;
+}
